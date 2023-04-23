@@ -1,0 +1,41 @@
+{
+  "name" : "root",
+  "type" : "folder",
+  "items" : [
+    {
+      "name" : "src",
+      "type" : "folder",
+      "items" : [
+        {
+          "name" : "app.js",
+          "type" : "file"
+        },
+        {
+          "name" : "node",
+          "type" : "folder",
+          "items" : [
+            {
+              "name" : "app.css",
+              "type" : "file"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name" : "public",
+      "type" : "folder",
+      "items" : [
+
+      ]
+    },
+    {
+      "name" : ".gitignore",
+      "type" : "file"
+    },
+    {
+      "name" : "index.js",
+      "type" : "file"
+    }
+  ]
+}
